@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Set sidebar icon size to small
 defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 1
 
